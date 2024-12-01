@@ -1,2 +1,2 @@
 # mini-project
-Author-Yashas
+Author-Yashas Vaddi
